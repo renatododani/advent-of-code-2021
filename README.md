@@ -1,4 +1,4 @@
-🎄 Advent of Code 2021
+#🎄 Advent of Code 2021
 
 The Advent of Code challege have always been an opportunity for me to try a new language. The problems are difficult, but not impossible. I find each challenge also inadvertently introduces me to a new concept in the language, further helping me explore topics and best practices.
 
